@@ -31,7 +31,7 @@ Visit the live website: [https://yourusername.github.io/portfolio-website](https
 ## 📱 Contact Information
 
 - **Email**: oyeladeenochadedeji@gmail.com
-- **WhatsApp**: [Message Direct](https://wa.me//2347089692376)
+- **WhatsApp**: [Message Direct](https://wa.me/+2347089692476)
 - **LinkedIn**: [Connect Here](https://www.linkedin.com/in/enoch-marketin)
 
 ## 🔧 Local Development
