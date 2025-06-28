@@ -825,7 +825,7 @@ const App = () => {
           <div className="footer-bottom">
             <div className="footer-links">
               <a href="mailto:oyeladeenochadedeji@gmail.com" className="footer-link">Email</a>
-              <a href="https://wa.me//2347089692376" className="footer-link" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+              <a href="https://wa.me/+2347089692476" className="footer-link" target="_blank" rel="noopener noreferrer">WhatsApp</a>
               <a href="https://www.linkedin.com/in/enoch-marketin" className="footer-link" target="_blank" rel="noopener noreferrer">LinkedIn</a>
             </div>
             <div className="footer-copyright">
